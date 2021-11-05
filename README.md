@@ -9,3 +9,4 @@ It is important to incluide  alt text to images as well, which were missing in t
 
 
 You can visit the website here : https://jaybarbanel.github.io/Homework_Assigntment-1/
+![Screen Shot 2021-11-05 at 9 06 35 AM](https://user-images.githubusercontent.com/89555843/140542318-7836b15c-da47-42ca-9941-73acf4da5f64.png)
