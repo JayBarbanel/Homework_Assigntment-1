@@ -1,4 +1,4 @@
-# Homework_Assigntment-1
+# UCLA_HomeworkAssignment1_CodeRefractor
 The purpose of this assisgnment was to refactor the existing code. 
 Refeacoting is useful to to implement new technology so that the code is more clear. 
 The website title was the first thing I fixed as origonally it did not have the companies name in the title.
