@@ -1,12 +1,15 @@
 # UCLA_HomeworkAssignment1_CodeRefractor
 The purpose of this assisgnment was to refactor the existing code. 
-Refeacoting is useful to to implement new technology so that the code is more clear. 
+Refractoring is useful to implement new technology so that the code is more clear. 
+
+# Changes Made:
 The website title was the first thing I fixed as origonally it did not have the companies name in the title.
-This included adding a 'header' section.  Changing the divs to 'sections' and updating the footer.  
-With that, in the ccs style file, it was important to remove the '.' when you were not using a class.  
+This included adding a 'header' section.  
+Changing the divs to 'sections' and updating the footer.  
+With that, in the ccs style sheet, it was important to remove the '.' when you were not using a class.  
 I also needed to add a # to css when using the ids.  
 It is important to incluide  alt text to images as well, which were missing in this origional code and later added.  
-
+WHen clicking on Search Engine Optimization, it also did not function the way it should.  The other nav bar objects bring you to their respective sections when clicked, so I had to go in and link Search Engine Optimization. 
 
 
 
